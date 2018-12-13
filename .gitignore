@@ -1,4 +1,6 @@
 # Xcode
+build/
+Pods/
 !**/*.xcodeproj
 !**/*.pbxproj
 !**/*.xcworkspacedata
